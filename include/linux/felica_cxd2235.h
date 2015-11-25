@@ -53,7 +53,7 @@
  * config option
  ******************************************************************************/
 
-//#define FELICA_CONFIG_ACCESS_RESTRICTION
+#define FELICA_CONFIG_ACCESS_RESTRICTION
 
 struct felica_platform_data {
 	unsigned int int_irq;
